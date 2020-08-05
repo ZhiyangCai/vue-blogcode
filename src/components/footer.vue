@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>© zhiyangcai 2020 wechat: blog01</p>
+    <p>© zhiyangcai 2020 blog01</p>
   </footer>
 </template>
 
